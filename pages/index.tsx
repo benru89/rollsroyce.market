@@ -47,13 +47,13 @@ const IndexPage = ({ robes, lastUpdate }: Props) => {
             href="https://twitter.com/TheDopeWarsLoot"
             className="underline"
           >
-            worm_emoji
+            TheDopeWarsLoot
           </a>
           . Join the{' '}
           <a
             target="_blank"
             className="underline"
-            href="https://divineroles.vercel.app"
+            href="https://rollsroyce-market.vercel.app/"
           >
             Discord
           </a>
