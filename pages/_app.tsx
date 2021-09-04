@@ -27,7 +27,7 @@ function Robes({ Component, pageProps }) {
         <link rel="icon" type="image/png" href="/favicon.png" />
         <meta
           property="og:description"
-          content="See the floor price of G-Wagon bags from the Dope Wars project."
+          content="See the floor price of Rolls Royce bags from the Dope Wars project."
         />
         <meta property="og:image" content="https://rollsroyce-market.vercel.app/og.png" />
       </Head>
